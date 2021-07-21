@@ -33,7 +33,10 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|R
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
+https://github.com/weareblahs/bernama_fvhls/raw/main/youtube.m3u
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
