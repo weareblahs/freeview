@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
