@@ -10,16 +10,16 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|R
 https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0mLMzb4QHVIjeMGeSbO4gk4)/dm/3/x6zvnex/s/live-4.m3u8|Referer=https://www.dailymotion.com
+https://dailymotionlive.akamaized.net/sec(jyCOMoYa2SFWfHvye_Gd0g2Nr5Z0A-hdCj0pt6-yBiY)/dm/3/x6zvnex/s/live-4.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQFfVgCDmLKqyOgdidDeZkw)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQZ7rMAuIgMVGb5gTNV2L_E)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHd6oejuqK2ml3ERCNjZSgUM)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com
+https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHZsMZvBRvKjF6fhpo6bOSRE)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
 https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
