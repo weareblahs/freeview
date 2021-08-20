@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
-https://github.com/196-25-717-6196/Test/raw/main/101-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
-https://github.com/196-25-717-6196/Test/raw/main/102-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
-https://github.com/196-25-717-6196/Test/raw/main/103-multi.m3u8|Referer=https://www.dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://github.com/196-25-717-6196/Test/raw/main/D<S>angat-multi.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://github.com/196-25-717-6196/Test/raw/main/107-multi.m3u8|Referer=https://www.dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-https://github.com/196-25-717-6196/Test/raw/main/108-multi.m3u8|Referer=https://www.dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/108.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
-https://github.com/196-25-717-6196/Test/raw/main/109-multi.m3u8|Referer=https://www.dailymotion.com
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/109.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
 https://github.com/196-25-717-6196/Test/raw/main/Ok%3Ce%3Ey-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
