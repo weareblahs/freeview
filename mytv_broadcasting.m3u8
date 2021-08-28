@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/103.m3u8|Referer=https://www.dailymotion.com
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/103.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
-https://github.com/196-25-717-6196/Test/raw/main/D<S>angat-multi.m3u8|Referer=https://www.dailymotion.com
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/DSngat.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8|Referer=https://www.dailymotion.com
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/107.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/108.m3u8|Referer=https://www.dailymotion.com
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/108.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/109.m3u8|Referer=https://www.dailymotion.com
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/109.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
 https://github.com/196-25-717-6196/Test/raw/main/Ok%3Ce%3Ey-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -31,13 +31,13 @@ https://github.com/196-25-717-6196/Test/raw/main/S%3Cu%3Ekan-multi.m3u8|Referer=
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
-https://github.com/196-25-717-6196/Test/raw/main/G%3CS%3Ehop_my-multi.m3u8
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/GShopMY.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
-https://weareblahs.ga/bernama_fvhls/youtube.m3u
+https://weareblahs.ga/yttestlabs/youtube.m3u
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
-https://github.com/196-25-717-6196/Test/blob/main/T%3Cv%3ESwak-multi.m3u8
+https://v-e-r-f-umbrella.000webhostapp.com/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
