@@ -19,8 +19,8 @@ Special thanks to @V-T-E-R for managing the IPTV links for Dailymotion sources (
 | Sukan RTM | RTM Klik |
 | TV6 | RTM Klik |
 | GO Shop MYTV | GO Shop official website |
-| BERNAMA | YouTube Official Livestream |
-| TVS | Astro Official Source |
+| BERNAMA | YouTube Official Livestream (See weareblahs/yttestlabs/) |
+| TVS | Livestream using Astro's official source (GO Shop?) |
 | Berita RTM | RTM Klik |
 ### Unavailable channels
  - CJ WOW SHOP Malay (No source)
