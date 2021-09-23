@@ -1,27 +1,29 @@
 # What's this all about?
-It's basically MYTV Broadcasting / myFreeview but through IPTV. All channels are sourced from official sources. For these who didn't want to buy MYTV Set-top-boxes and antennas starting from RM60, but have a TV box.
+It's basically MYTV Broadcasting / myFreeview but through IPTV. All channels are sourced from official sources. For these who didn't want to buy MYTV Set-top-boxes and antennas starting from RM60, but have a TV box.  
+  
+No restreams are done.
 
 # Special thanks
-Special thanks to @V-T-E-R for managing the IPTV links for Dailymotion sources (TV3 / DidikTV KPM / 8TV / TV9).
+Special thanks to @V-T-E-R for managing some of the IPTV links.
 
 # Channels
 ## TV
 | Channel Name | Source |
 |--|--|
-| TV1 | RTM Klik `@V-T-E-R` |
-| TV2 | RTM Klik `@V-T-E-R` |
+| TV1 | RTM Klik `@V-T-E-R Static Playlist` |
+| TV2 | RTM Klik `@V-T-E-R Static Playlist` |
 | TV3 | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
 | Drama Sangat | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
 | DidikTV KPM | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
 | 8TV | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
 | TV9 | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
-| OKEY | RTM Klik `@V-T-E-R` |
-| Sukan RTM | RTM Klik `@V-T-E-R` |
-| TV6 | RTM Klik `@V-T-E-R` |
+| OKEY | RTM Klik `@V-T-E-R Static Playlist` |
+| Sukan RTM | RTM Klik `@V-T-E-R` Static Playlist |
+| TV6 | RTM Klik `@V-T-E-R Static Playlist` |
 | GO Shop MYTV | GO Shop official website `Direct Link` |
 | BERNAMA | YouTube Official Livestream (See weareblahs/yttestlabs/) `weareblahs/yttestlabs Mirror` |
 | TVS | Livestream using Astro's official source (GO Shop?) `Direct Link` |
-| Berita RTM | RTM Klik `@V-T-E-R` |
+| Berita RTM | RTM Klik `@V-T-E-R Static Playlist` |
 ### Unavailable channels
  - CJ WOW SHOP Malay (No source)
  - CJ WOW SHOP Chinese (No source)
