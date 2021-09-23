@@ -8,39 +8,39 @@ Special thanks to @V-T-E-R for managing the IPTV links for Dailymotion sources (
 ## TV
 | Channel Name | Source |
 |--|--|
-| TV1 | RTM Klik |
-| TV2 | RTM Klik |
-| TV3 | Tonton (Dailymotion) |
-| Drama Sangat | Tonton (Dailymotion) |
-| DidikTV KPM | Tonton (Dailymotion) |
-| 8TV | Tonton (Dailymotion) |
-| TV9 | Tonton (Dailymotion) |
-| OKEY | RTM Klik |
-| Sukan RTM | RTM Klik |
-| TV6 | RTM Klik |
-| GO Shop MYTV | GO Shop official website |
-| BERNAMA | YouTube Official Livestream (See weareblahs/yttestlabs/) |
-| TVS | Livestream using Astro's official source (GO Shop?) |
-| Berita RTM | RTM Klik |
+| TV1 | RTM Klik `@V-T-E-R` |
+| TV2 | RTM Klik `@V-T-E-R` |
+| TV3 | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
+| Drama Sangat | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
+| DidikTV KPM | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
+| 8TV | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
+| TV9 | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
+| OKEY | RTM Klik `@V-T-E-R` |
+| Sukan RTM | RTM Klik `@V-T-E-R` |
+| TV6 | RTM Klik `@V-T-E-R` |
+| GO Shop MYTV | GO Shop official website `Direct Link` |
+| BERNAMA | YouTube Official Livestream (See weareblahs/yttestlabs/) `weareblahs/yttestlabs Mirror` |
+| TVS | Livestream using Astro's official source (GO Shop?) `Direct Link` |
+| Berita RTM | RTM Klik `@V-T-E-R` |
 ### Unavailable channels
  - CJ WOW SHOP Malay (No source)
  - CJ WOW SHOP Chinese (No source)
- - Awesome TV (No legal / official source)
+ - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
 
 ## Radio
 | Channel Name | Source |
 |--|--|
-| Nasional FM | RTM Klik |
-| Traxx FM | RTM Klik |
-| Minnal FM | RTM Klik |
-| Ai FM | RTM Klik |
-| Radio Klasik | RTM Klik |
-| Asyik FM | RTM Klik |
-| Sabah FM | RTM Klik |
-| Sabah VFM | RTM Klik |
-| Sarawak FM | RTM Klik |
-| Wai FM | RTM Klik |
-| Hot FM | Official Website |
-| Kool FM | Official Website |
-| Fly FM | Official Website |
-| One FM | Official Website |
+| Nasional FM | RTM Klik `Direct Link` |
+| Traxx FM | RTM Klik `Direct Link` |
+| Minnal FM | RTM Klik `Direct Link` |
+| Ai FM | RTM Klik `Direct Link` |
+| Radio Klasik | RTM Klik `Direct Link` |
+| Asyik FM | RTM Klik `Direct Link` |
+| Sabah FM | RTM Klik `Direct Link` |
+| Sabah VFM | RTM Klik `Direct Link` |
+| Sarawak FM | RTM Klik `Direct Link` |
+| Wai FM | RTM Klik `Direct Link` |
+| Hot FM | Official Website `Direct Link` |
+| Kool FM | Official Website `Direct Link` |
+| Fly FM | Official Website `Direct Link` |
+| One FM | Official Website `Direct Link` |
