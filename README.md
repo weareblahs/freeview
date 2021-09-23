@@ -18,7 +18,7 @@ Special thanks to @V-T-E-R for managing some of the IPTV links.
 | 8TV | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
 | TV9 | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
 | OKEY | RTM Klik `@V-T-E-R Static Playlist` |
-| Sukan RTM | RTM Klik `@V-T-E-R` Static Playlist |
+| Sukan RTM | RTM Klik `@V-T-E-R Static Playlist` |
 | TV6 | RTM Klik `@V-T-E-R Static Playlist` |
 | GO Shop MYTV | GO Shop official website `Direct Link` |
 | BERNAMA | YouTube Official Livestream (See weareblahs/yttestlabs/) `weareblahs/yttestlabs Mirror` |
