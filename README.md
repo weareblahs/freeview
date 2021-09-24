@@ -21,7 +21,7 @@ Special thanks to @V-T-E-R for managing some of the IPTV links.
 | Sukan RTM | RTM Klik `@V-T-E-R Static Playlist` |
 | TV6 | RTM Klik `@V-T-E-R Static Playlist` |
 | GO Shop MYTV | GO Shop official website `Direct Link` |
-| BERNAMA | YouTube Official Livestream (See weareblahs/yttestlabs/) `weareblahs/yttestlabs Mirror` |
+| BERNAMA | YouTube Official Livestream `weareblahs/yttestlabs Mirror` |
 | TVS | Livestream using Astro's official source (GO Shop?) `Direct Link` |
 | Berita RTM | RTM Klik `@V-T-E-R Static Playlist` |
 ### Unavailable channels
