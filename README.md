@@ -1,7 +1,7 @@
 # What's this all about?
 It's basically MYTV Broadcasting / myFreeview but through IPTV. All channels are sourced from official sources. For these who didn't want to buy MYTV Set-top-boxes and antennas starting from RM60, but have a TV box.  
   
-No restreams are done.
+No restreams are done for this playlist. Do not sell this playlist!
 
 # Special thanks
 Special thanks to @V-T-E-R for managing some of the IPTV links.
