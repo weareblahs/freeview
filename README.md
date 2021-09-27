@@ -20,9 +20,9 @@ Special thanks to @V-T-E-R for managing some of the IPTV links.
 | OKEY | RTM Klik `@V-T-E-R Static Playlist` |
 | Sukan RTM | RTM Klik `@V-T-E-R Static Playlist` |
 | TV6 | RTM Klik `@V-T-E-R Static Playlist` |
-| GO Shop MYTV | GO Shop official website `Direct Link` |
+| GO Shop MYTV | GO Shop official website `@V-T-E-R Static Playlist` |
 | BERNAMA | YouTube Official Livestream `weareblahs/yttestlabs Mirror` |
-| TVS | Livestream using Astro's official source (GO Shop?) `Direct Link` |
+| TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
 | Berita RTM | RTM Klik `@V-T-E-R Static Playlist` |
 ### Unavailable channels
  - CJ WOW SHOP Malay (No source)
