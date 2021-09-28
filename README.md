@@ -4,7 +4,8 @@ It's basically MYTV Broadcasting / myFreeview but through IPTV. All channels are
 No restreams are done for this playlist. Do not sell this playlist!
 
 # Special thanks
-Special thanks to @V-T-E-R for managing some of the IPTV links.
+Special thanks to @V-T-E-R for managing some of the IPTV links.  
+Special thanks to @samleong123 for managing the Dailymotion links.
 
 # Channels
 ## TV
@@ -12,11 +13,11 @@ Special thanks to @V-T-E-R for managing some of the IPTV links.
 |--|--|
 | TV1 | RTM Klik `@V-T-E-R Static Playlist` |
 | TV2 | RTM Klik `@V-T-E-R Static Playlist` |
-| TV3 | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
-| Drama Sangat | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
-| DidikTV KPM | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
-| 8TV | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
-| TV9 | Tonton (Dailymotion) `@V-T-E-R Static Playlist` |
+| TV3 | Tonton (Dailymotion) `@samleong123 Dailymotion` |
+| Drama Sangat | Tonton (Dailymotion) `@samleong123 Dailymotion` |
+| DidikTV KPM | Tonton (Dailymotion) `@samleong123 Dailymotion` |
+| 8TV | Tonton (Dailymotion) `@samleong123 Dailymotion` |
+| TV9 | Tonton (Dailymotion) `@samleong123 Dailymotion` |
 | OKEY | RTM Klik `@V-T-E-R Static Playlist` |
 | Sukan RTM | RTM Klik `@V-T-E-R Static Playlist` |
 | TV6 | RTM Klik `@V-T-E-R Static Playlist` |
