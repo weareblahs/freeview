@@ -29,6 +29,7 @@ Special thanks to @samleong123 for managing the Dailymotion links.
  - CJ WOW SHOP Malay (No source)
  - CJ WOW SHOP Chinese (No source)
  - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
+ - TV AlHijrah (No legal / official source - official "AlHijrah Media" site is in mantainence mode, original live is on YouTube)
 
 ## Radio
 | Channel Name | Source |
