@@ -23,6 +23,7 @@ Special thanks to @samleong123 for managing the Dailymotion links.
 | TV6 | RTM Klik `@V-T-E-R Static Playlist` |
 | GO Shop MYTV | GO Shop official website `@V-T-E-R Static Playlist` |
 | BERNAMA | YouTube Official Livestream `weareblahs/yttestlabs Mirror` |
+| Suke TV | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` | 
 | TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
 | Berita RTM | RTM Klik `@V-T-E-R Static Playlist` |
 ### Unavailable channels
@@ -48,3 +49,4 @@ Special thanks to @samleong123 for managing the Dailymotion links.
 | Kool FM | Official Website `Direct Link` |
 | Fly FM | Official Website `Direct Link` |
 | One FM | Official Website `Direct Link` |
+| Molek FM | Official Website `Direct Link` |
