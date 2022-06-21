@@ -31,7 +31,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtm
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vSTsGlwkOAE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
@@ -75,17 +75,17 @@ https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
 #EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg",Wai FM
 https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_hotfm_master.png",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_buletinfm_master.png",Buletin FM
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_flyfm_master.png",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_8fm_master.png",8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
-#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+#EXTINF:-1 group-title="MYTV Broadcasting: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2022/01/logo_molekfm_master.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
