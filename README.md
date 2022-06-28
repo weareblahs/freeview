@@ -25,7 +25,6 @@ Special thanks to @samleong123 for managing the Dailymotion links.
 | Sukan RTM | RTM Klik `@V-T-E-R Static Playlist` |
 | TV6 | RTM Klik `@V-T-E-R Static Playlist` |
 | GO Shop MYTV | GO Shop official website `@V-T-E-R Static Playlist` |
-| BERNAMA | YouTube Official Livestream `weareblahs/yttestlabs Mirror` |
 | Suke TV | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` | 
 | TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
 | Berita RTM | RTM Klik `@V-T-E-R Static Playlist` |
@@ -34,7 +33,7 @@ Special thanks to @samleong123 for managing the Dailymotion links.
  - CJ WOW SHOP Chinese (No source)
  - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
  - TV AlHijrah (No legal / official source - official "AlHijrah Media" site is in mantainence mode, original live is on YouTube)
-
+ - BERNAMA (YouTube livestream offline)
 ## Radio
 | Channel Name | Source |
 |--|--|
