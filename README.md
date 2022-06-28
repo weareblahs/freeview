@@ -3,6 +3,9 @@ It's basically MYTV Broadcasting / myFreeview but through IPTV. All channels are
   
 No restreams are done for this playlist. Do not sell this playlist!
 
+# NOTE: Malaysia-only playlist
+This playlist is for use in Malaysia only. Using any VPN connections might not work well with some channels (especially Media Prima channels).
+
 # Special thanks
 Special thanks to @V-T-E-R for managing some of the IPTV links.  
 Special thanks to @samleong123 for managing the Dailymotion links.
