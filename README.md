@@ -27,13 +27,11 @@ Special thanks to @samleong123 for managing the Dailymotion links.
 | GO Shop MYTV | GO Shop official website `@V-T-E-R Static Playlist` |
 | Suke TV | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` | 
 | TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
+| BERNAMA | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` |
 | Berita RTM | RTM Klik `@V-T-E-R Static Playlist` |
 ### Unavailable channels
- - CJ WOW SHOP Malay (No source)
- - CJ WOW SHOP Chinese (No source)
  - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
  - TV AlHijrah (No legal / official source - official "AlHijrah Media" site is in mantainence mode, original live is on YouTube)
- - BERNAMA (YouTube livestream offline)
 ## Radio
 | Channel Name | Source |
 |--|--|
@@ -48,7 +46,7 @@ Special thanks to @samleong123 for managing the Dailymotion links.
 | Sarawak FM | RTM Klik `Direct Link` |
 | Wai FM | RTM Klik `Direct Link` |
 | Hot FM | Official Website `Direct Link` |
-| Kool FM | Official Website `Direct Link` |
+| Buletin FM | Official Website `Direct Link` |
 | Fly FM | Official Website `Direct Link` |
-| One FM | Official Website `Direct Link` |
+| 8FM | Official Website `Direct Link` |
 | Molek FM | Official Website `Direct Link` |
