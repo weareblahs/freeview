@@ -24,7 +24,7 @@ Special thanks to @samleong123 for managing the Dailymotion links.
 | OKEY | RTM Klik `@V-T-E-R Static Playlist` |
 | Sukan RTM | RTM Klik `@V-T-E-R Static Playlist` |
 | TV6 | RTM Klik `@V-T-E-R Static Playlist` |
-| TV AlHijrah | `AlHijrah Plus API` |
+| TV AlHijrah | AlHijrah Plus `API` |
 | Suke TV | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` | 
 | TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
 | BERNAMA | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` |
