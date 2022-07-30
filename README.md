@@ -10,6 +10,9 @@ This playlist is for use in Malaysia only. Using any VPN connections might not w
 Special thanks to @V-T-E-R for managing some of the IPTV links.  
 Special thanks to @samleong123 for managing the Dailymotion links.
 
+# NOTE: Special Channels
+Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled under the category of "Special Channels". Special channels only shows up on important sports events and other important events, so check back soon if there's no special channels.
+
 # Channels
 ## TV
 | Channel Name | Source |
