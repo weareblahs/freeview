@@ -6,6 +6,24 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
+#EXTINF:-1 group-title="MYTV Broadcasting: Birmingham 2022 RTM" ch-number="991" tvg-id="991" tvg-chno="991" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 1 Birmingham 2022 Commonwealth Games
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg1/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Birmingham 2022 RTM" ch-number="992" tvg-id="992" tvg-chno="992" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 2 Birmingham 2022 Commonwealth Games
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg2/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Birmingham 2022 RTM" ch-number="993" tvg-id="993" tvg-chno="993" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 3 Birmingham 2022 Commonwealth Games
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg3/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Birmingham 2022 RTM" ch-number="994" tvg-id="994" tvg-chno="994" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 4 Birmingham 2022 Commonwealth Games
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg4/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Birmingham 2022 RTM" ch-number="995" tvg-id="995" tvg-chno="995" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 5 Birmingham 2022 Commonwealth Games
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg5/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 group-title="MYTV Broadcasting: Birmingham 2022 RTM" ch-number="996" tvg-id="996" tvg-chno="996" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 6 Birmingham 2022 Commonwealth Games
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg6/chunklist_b4596000_slENG.m3u8
+
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
