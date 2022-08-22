@@ -90,20 +90,4 @@ https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2022/01/logo_molekfm_master.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
-#EXTINF:-1 group-title="myFreeview: Special Channels" ch-number="991" tvg-id="991" tvg-chno="991" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 1 Birmingham 2022 Commonwealth Games
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg1/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 group-title="myFreeview: Special Channels" ch-number="992" tvg-id="992" tvg-chno="992" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 2 Birmingham 2022 Commonwealth Games
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg2/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Special Channels" ch-number="993" tvg-id="993" tvg-chno="993" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 3 Birmingham 2022 Commonwealth Games
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg3/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Special Channels" ch-number="994" tvg-id="994" tvg-chno="994" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 4 Birmingham 2022 Commonwealth Games
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg4/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Special Channels" ch-number="995" tvg-id="995" tvg-chno="995" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 5 Birmingham 2022 Commonwealth Games
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg5/chunklist_b4596000_slENG.m3u8
-
-#EXTINF:-1 group-title="myFreeview: Special Channels" ch-number="996" tvg-id="996" tvg-chno="996" tvg-logo="https://rtm.glueapi.io/v1/content/11/image/1920x1080/images.title?c=20220730",Channel 6 Birmingham 2022 Commonwealth Games
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:cg6/chunklist_b4596000_slENG.m3u8
