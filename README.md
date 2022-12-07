@@ -1,5 +1,5 @@
 # UPDATE
-Media Prima channels seems to not work on most devices. Try watching it through xtra.com.my.
+Media Prima channels are back to online now through Tonton streaming sites.
 
 # What's this all about?
 It's basically MYTV Broadcasting / myFreeview but through IPTV. All channels are sourced from official sources. For these who didn't want to buy MYTV Set-top-boxes and antennas starting from RM60, but have a TV box.  
@@ -20,21 +20,21 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 ## TV
 | Channel Name | Source |
 |--|--|
-| TV1 | RTM Klik `@V-T-E-R Static Playlist` |
-| TV2 | RTM Klik `@V-T-E-R Static Playlist` |
-| TV3 | Tonton (Dailymotion) `@samleong123 Dailymotion` |
-| Drama Sangat | Tonton (Dailymotion) `@samleong123 Dailymotion` |
-| DidikTV KPM | Tonton (Dailymotion) `@samleong123 Dailymotion` |
-| 8TV | Tonton (Dailymotion) `@samleong123 Dailymotion` |
-| TV9 | Tonton (Dailymotion) `@samleong123 Dailymotion` |
-| OKEY | RTM Klik `@V-T-E-R Static Playlist` |
-| Sukan RTM | RTM Klik `@V-T-E-R Static Playlist` |
-| TV6 | RTM Klik `@V-T-E-R Static Playlist` |
+| TV1 | RTM Klik `Direct Link` |
+| TV2 | RTM Klik `Direct Link` |
+| TV3 | Tonton  `Direct Link` |
+| Drama Sangat | Tonton  `Direct Link` |
+| DidikTV KPM | Tonton  `Direct Link` |
+| 8TV | Tonton  `Direct Link` |
+| TV9 | Tonton  `Direct Link` |
+| OKEY | RTM Klik `Direct Link` |
+| Sukan RTM | RTM Klik `Direct Link` |
+| TV6 | RTM Klik `Direct Link` |
 | TV AlHijrah | AlHijrah Plus `API` |
 | Suke TV | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` | 
 | TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
 | BERNAMA | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` |
-| Berita RTM | RTM Klik `@V-T-E-R Static Playlist` |
+| Berita RTM | RTM Klik `Direct Link` |
 ### Unavailable channels
  - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
 ## Radio
