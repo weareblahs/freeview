@@ -20,6 +20,7 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 ## TV
 | Channel Name | Source |
 |--|--|
+| CH100 | Mana2 `Direct Link` |
 | TV1 | RTM Klik `Direct Link` |
 | TV2 | RTM Klik `Direct Link` |
 | TV3 | Tonton  `Direct Link` |
@@ -30,10 +31,10 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | OKEY | RTM Klik `Direct Link` |
 | Sukan RTM | RTM Klik `Direct Link` |
 | TV6 | RTM Klik `Direct Link` |
-| TV AlHijrah | AlHijrah Plus `API` |
-| Suke TV | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` | 
-| TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
-| BERNAMA | YouTube Official Livestream `Mirror method sourced from iptv-org/awesome-iptv` |
+| TV AlHijrah | Mana2 `Direct Link` |
+| Suke TV | Mana2 `Direct Link` | 
+| TVS | Mana2 `Direct Link` |
+| BERNAMA | Mana2 `Direct Link` |
 | Berita RTM | RTM Klik `Direct Link` |
 ### Unavailable channels
  - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
