@@ -33,7 +33,7 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | TV6 | RTM Klik `Direct Link` |
 | TV AlHijrah | Mana2 `Direct Link` |
 | Suke TV | Mana2 `Direct Link` | 
-| TVS | Mana2 `Direct Link` |
+| TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
 | BERNAMA | Mana2 `Direct Link` |
 | Berita RTM | RTM Klik `Direct Link` |
 ### Unavailable channels
