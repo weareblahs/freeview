@@ -92,3 +92,6 @@ https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2022/01/logo_molekfm_master.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="726" tvg-chno="726" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=229151117",Bernama Radio
+https://live.mana2.my/BERNAMA_RADIO/index.m3u8?organizationId=196288014&suiteItemId=229150640

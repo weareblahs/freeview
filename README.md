@@ -56,3 +56,4 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | Fly FM | Official Website `Direct Link` |
 | 8FM | Official Website `Direct Link` |
 | Molek FM | Official Website `Direct Link` |
+| Bernama Radio | Mana2 `Direct Link` |
