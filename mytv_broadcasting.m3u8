@@ -48,6 +48,12 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="124" tvg-id="124" tvg-chno="124" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=232348966",TVRI Nasional
+https://live.mana2.my/TVRInasional/index.m3u8?organizationId=196288014&suiteItemId=232348489
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=232349217",TVRI World
+https://live.mana2.my/TVRIworld/index.m3u8?organizationId=196288014&suiteItemId=232349040
+
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
 https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
