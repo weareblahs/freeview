@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="100" tvg-id="100" tvg-chno="100" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198648102",CH100
-https://live.mana2.my/ch100/index.m3u8?organizationId=196288014&suiteItemId=197384793
+https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -34,13 +34,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198648103",TV Alhijrah
-https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
+https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
-https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
+https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
-https://live.mana2.my/Bernama/index.m3u8?organizationId=196288014&suiteItemId=200299504
+https://live.mana2.my/Bernama/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
