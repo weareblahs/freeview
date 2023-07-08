@@ -52,7 +52,7 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | Sarawak FM | RTM Klik `Direct Link` |
 | Wai FM | RTM Klik `Direct Link` |
 | Hot FM | Official Website `Direct Link` |
-| Buletin FM | Official Website `Direct Link` |
+| Kool 101 | Official Website `Direct Link` |
 | Fly FM | Official Website `Direct Link` |
 | 8FM | Official Website `Direct Link` |
 | Molek FM | Official Website `Direct Link` |
