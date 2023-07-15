@@ -20,10 +20,10 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 ## TV
 | Channel Name | Source |
 |--|--|
-| CH100 | Mana2 `Direct Link` |
 | TV1 | RTM Klik `Direct Link` |
 | TV2 | RTM Klik `Direct Link` |
 | TV3 | Tonton  `Direct Link` |
+| Enjoy TV5 | Mana2 `Direct Link` |
 | Drama Sangat | Tonton  `Direct Link` |
 | DidikTV KPM | Tonton  `Direct Link` |
 | 8TV | Tonton  `Direct Link` |
