@@ -1,5 +1,12 @@
 # UPDATE
-Media Prima channels are back to online now through Tonton streaming sites.
+Not working? Please use official apps which are available through select TV platforms, such as Android TV.
+## List of official apps for broadcasts
+| Channel Provider | App Name | Link (for Android TV) |
+|--|--|--|
+| RTM (TV1 / TV2 / TV6 / Sukan RTM / TV OKEY / Berita RTM) | RTMklik | https://play.google.com/store/apps/details?id=my.gov.rtm.tv |
+| Media Prima (TV3 / Didik TV / 8TV / TV9 / Drama Sangat | Tonton | https://play.google.com/store/apps/details?id=my.com.tonton.screen |
+## Disclaimer
+This playlist is an alternative way for users to watch free-to-air TV broadcasts via the Internet (through IPTV applications), and does not involve any redistribution of live streams. This playlist is not intended for piracy usage.
 
 # What's this all about?
 It's basically MYTV Broadcasting / myFreeview but through IPTV. All channels are sourced from official sources. For these who didn't want to buy MYTV Set-top-boxes and antennas starting from RM60, but have a TV box.  
