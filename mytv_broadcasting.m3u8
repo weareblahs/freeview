@@ -49,7 +49,7 @@ https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
 https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
-https://live.mana2.my/Bernama/index.m3u8|User-Agent=Mozilla
+https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=217859245",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
