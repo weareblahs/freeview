@@ -48,8 +48,8 @@ https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
 https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=217859245",TVS
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
+https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -102,5 +102,5 @@ https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
-#EXTINF:-1 group-title="myFreeview: Radio" ch-number="726" tvg-chno="726" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=233559647",Manis FM
-https://live.mana2.my/ManisFm/index.m3u8|User-Agent=Mozilla
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="726" tvg-chno="726" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",Manis FM
+https://n01.rcs.revma.com/nzgauqq1v7zuv
