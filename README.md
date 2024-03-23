@@ -30,7 +30,6 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | TV1 | RTM Klik `Direct Link` |
 | TV2 | RTM Klik `Direct Link` |
 | TV3 | Tonton  `Direct Link` |
-| Enjoy TV5 | Mana2 `Direct Link` |
 | Drama Sangat | Tonton  `Direct Link` |
 | DidikTV KPM | Tonton  `Direct Link` |
 | 8TV | Tonton  `Direct Link` |
@@ -40,8 +39,8 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | TV6 | RTM Klik `Direct Link` |
 | TV AlHijrah | Mana2 `Direct Link` |
 | Suke TV | Mana2 `Direct Link` | 
-| TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
-| BERNAMA | Mana2 `Direct Link` |
+| TVS | Official Website `Direct Link` |
+| BERNAMA | Youtube `Youtube Stream` |
 | Berita RTM | RTM Klik `Direct Link` |
 ### Unavailable channels
  - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
@@ -64,3 +63,4 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | 8FM | Official Website `Direct Link` |
 | Molek FM | Official Website `Direct Link` |
 | Bernama Radio | Mana2 `Direct Link` |
+| Manis FM | Official Website `Direct Link` |
