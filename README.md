@@ -36,14 +36,14 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | TV9 | Tonton  `Direct Link` |
 | OKEY | RTM Klik `Direct Link` |
 | Sukan RTM | RTM Klik `Direct Link` |
+| Awesome TV | Official Website `Direct Link` |
 | TV6 | RTM Klik `Direct Link` |
 | TV AlHijrah | Mana2 `Direct Link` |
 | Suke TV | Mana2 `Direct Link` | 
 | TVS | Official Website `Direct Link` |
 | BERNAMA | Youtube `Youtube Stream` |
 | Berita RTM | RTM Klik `Direct Link` |
-### Unavailable channels
- - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
+
 ## Radio
 | Channel Name | Source |
 |--|--|
