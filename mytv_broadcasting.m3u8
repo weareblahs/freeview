@@ -47,7 +47,7 @@ https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
 https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://www.bernama.com/en/img/bernama.png",Bernama
-https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
