@@ -44,6 +44,9 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | BERNAMA | Youtube `Youtube Stream` |
 | Berita RTM | RTM Klik `Direct Link` |
 
+### Unavailable channels
+ - Note, Some Tonton and Most MYTV Mana-Mana channels dont work due to Auth Key requirements
+
 ## Radio
 | Channel Name | Source |
 |--|--|
