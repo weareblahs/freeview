@@ -33,6 +33,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",Awesome TV
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+https://stream.castr.com/668569d00bf80aa436fd4cb7/live_6c298f30394e11ef894159f971234ee4/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
@@ -43,7 +47,7 @@ https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
 https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://www.bernama.com/en/img/bernama.png",Bernama
-https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
@@ -101,3 +105,21 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="726" tvg-chno="726" tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",Manis FM
 https://n01.rcs.revma.com/nzgauqq1v7zuv
+
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="992" tvg-id="992" tvg-chno="992" ,Channel 2 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="993" tvg-id="993" tvg-chno="993" ,Channel 3 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="994" tvg-id="994" tvg-chno="994" ,Channel 4 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="995" tvg-id="995" tvg-chno="995" ,Channel 5 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
