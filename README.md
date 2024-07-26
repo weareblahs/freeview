@@ -5,6 +5,7 @@ Not working? Please use official apps which are available through select TV plat
 |--|--|--|
 | RTM (TV1 / TV2 / TV6 / Sukan RTM / TV OKEY / Berita RTM) | RTMklik | https://play.google.com/store/apps/details?id=my.gov.rtm.tv |
 | Media Prima (TV3 / Didik TV / 8TV / TV9 / Drama Sangat | Tonton | https://play.google.com/store/apps/details?id=my.com.tonton.screen |
+| Awesome TV (web) | Official website | https://awesometv.my/livetv/details/awesome-tv/28 |
 ## Disclaimer
 This playlist is an alternative way for users to watch free-to-air TV broadcasts via the Internet (through IPTV applications), and does not involve any redistribution of live streams. This playlist is not intended for piracy usage.
 
