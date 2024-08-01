@@ -34,7 +34,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",Awesome TV
-https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
