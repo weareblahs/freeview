@@ -39,7 +39,7 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | Sukan RTM | RTM Klik `Direct Link` |
 | Awesome TV | Official Website `Direct Link` |
 | TV6 | RTM Klik `Direct Link` |
-| TV AlHijrah | Mana2 `Direct Link` |
+| TV AlHijrah | Offical Website `Direct Link` |
 | Suke TV | Mana2 `Direct Link` | 
 | TVS | Official Website `Direct Link` |
 | BERNAMA | Youtube `Youtube Stream` |
